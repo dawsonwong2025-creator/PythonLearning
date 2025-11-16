@@ -1,0 +1,28 @@
+## Question:
+Input a integer n,
+Output all the digits of the integer n in inverse other
+> **Hints:** Use ***IF*** and ***WHILE*** to do it
+
+## Example 1:
+### Input:
+123
+### Output: 
+3
+2
+1
+
+## Example 2:
+### Input:
+10
+### Output: 
+0
+1
+
+## Example 3:
+### Input:
+201
+### Output: 
+1
+0
+2
+
