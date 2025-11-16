@@ -1,6 +1,7 @@
 ## Question:
 Input a integer n,
 Output the sum of all the digits of the integer n
+> **Hints:** Use IF and WHILE to do it
 
 ## Example 1:
 ### Input:
