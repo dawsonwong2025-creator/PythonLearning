@@ -7,16 +7,16 @@ Output the sum of all the digits of the integer n
 ### Input:
 123
 ### Output: (1+2+3=6)
-6
+answer: 6
 
 ## Example 2:
 ### Input:
 10
 ### Output: (1+0=1)
-1
+answer: 1
 
 ## Example 3:
 ### Input:
 201
 ### Output: (2+0+1=3)
-3
+answer: 3
